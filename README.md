@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Rayssa%20Meira&fontSize=42&fontColor=ff6eb4&animation=twinkling&fontAlignY=32&desc=Desenvolvedora%20Java%20em%20construção%20%7C%20ADS&descAlignY=55&descColor=ffb3d9"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Rayssa%20Oliveira&fontSize=48&fontColor=ff6eb4&animation=twinkling&fontAlignY=38&desc=Desenvolvedora%20Java%20em%20construção%20%7C%20ADS&descAlignY=58&descColor=ff6eb4&descSize=18"/>
 
 </div>
 
@@ -46,7 +46,7 @@ public class Rayssa {
 
 <br>
 
-[![My Skills](https://skillicons.dev/icons?i=java,mysql,git,github,vscode,idea)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,mysql,github,vscode)](https://skillicons.dev)
 
 </div>
 
@@ -58,9 +58,9 @@ public class Rayssa {
 
 <br>
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=RayssaMeiraRMO&show_icons=true&theme=rose_pine&include_all_commits=true&count_private=true&border_color=ff6eb4&title_color=ff6eb4&icon_color=ffb3d9"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=RayssaOliveiraRMO&show_icons=true&theme=rose_pine&include_all_commits=true&count_private=true&border_color=ff6eb4&title_color=ff6eb4&icon_color=ffb3d9"/>
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RayssaMeiraRMO&layout=compact&langs_count=6&theme=rose_pine&border_color=ff6eb4&title_color=ff6eb4"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RayssaOliveiraRMO&layout=compact&langs_count=6&theme=rose_pine&border_color=ff6eb4&title_color=ff6eb4"/>
 
 </div>
 
@@ -68,11 +68,11 @@ public class Rayssa {
 
 <div align="center">
 
-### 🔥 Streak
+### 🔥 Sequência
 
 <br>
 
-<img src="https://streak-stats.demolab.com?user=RayssaMeiraRMO&theme=rose-pine&border=ff6eb4&ring=ff6eb4&fire=ffb3d9&currStreakLabel=ff6eb4" />
+<img src="https://streak-stats.demolab.com?user=RayssaOliveiraRMO&theme=rose-pine&border=ff6eb4&ring=ff6eb4&fire=ffb3d9&currStreakLabel=ff6eb4" />
 
 </div>
 
@@ -86,7 +86,7 @@ public class Rayssa {
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Rayssa%20Oliveira-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rayssaoliveira-rmo)
 [![Gmail](https://img.shields.io/badge/Gmail-rayssameira80@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rayssameira80@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-RayssaMeiraRMO-ff6eb4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RayssaMeiraRMO)
+[![GitHub](https://img.shields.io/badge/GitHub-RayssaOliveiraRMO-ff6eb4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RayssaOliveiraRMO)
 
 </div>
 
